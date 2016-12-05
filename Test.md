@@ -20,3 +20,5 @@ R program
 - [모두를 위한 머신러닝/Deeplearning 강의: 김훈님 github](https://hunkim.github.io/ml/)
 - [맨땅에 헤딩 머신러닝: 조대협 블로그](http://bcho.tistory.com/966)
 - [수학을 포기한 직업 프로그래머가 머신러닝 학습을 시작하기위한 학습법 소개](http://www.moreagile.net/2015/05/how-to-start-machine-learning-study.html)
+
+<script src="https://gist.github.com/smmyoung/44094e580bd849f7e7088586395d9735.js"></script>
