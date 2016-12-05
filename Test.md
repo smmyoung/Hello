@@ -21,15 +21,9 @@ R program
 - [맨땅에 헤딩 머신러닝: 조대협 블로그](http://bcho.tistory.com/966)
 - [수학을 포기한 직업 프로그래머가 머신러닝 학습을 시작하기위한 학습법 소개](http://www.moreagile.net/2015/05/how-to-start-machine-learning-study.html)
 
-<script src="https://gist.github.com/smmyoung/44094e580bd849f7e7088586395d9735.js"></script>
-
 ```{r cars}
 summary(cars)
 ```
 
 
-Here's an example of how to embed a Gist on GitHub Pages:
-
-{% gist 44094e580bd849f7e7088586395d9735 %}
-
-All you need to do is copy and paste the Gist's ID from the URL (here `5555251`), and add it to a `gist` tag surrounded by `{%` and `%}`.
+<script src="http://gist-it.appspot.com/github/robertkrimen/gist-it-example/blob/master/example.js"></script>
